@@ -42,12 +42,14 @@
             color: white;
             padding: 5px;
             border-radius: 4px;
-            transition: opacity 0.3s;
+            font-size: 14px; /* Default font size */
+            transition: opacity 0.3s, font-size 0.3s;
         }
 
         .nlp-term:hover .tooltip {
             visibility: visible;
             opacity: 1;
+            font-size: 10px; /* Smaller font size on hover */
         }
     </style>
 </head>
@@ -58,4 +60,3 @@
     <script src="script.js"></script>
 </body>
 </html>
-
