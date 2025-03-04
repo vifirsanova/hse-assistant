@@ -4,7 +4,7 @@
             "text": "Tokenization is a key step in Natural Language Processing (NLP). It helps in breaking down text into meaningful units.",
             "tooltip": {
                 "word": "Natural Language Processing",
-                "text": "NLP is a field of AI that focuses on the interaction between computers and human language."
+                "text": "NLP is a field of AI that focuses on human-machine interaction."
             },
             "highlights": [
                 { "word": "Tokenization" },
@@ -31,4 +31,3 @@
         }
     ]
 }
-
